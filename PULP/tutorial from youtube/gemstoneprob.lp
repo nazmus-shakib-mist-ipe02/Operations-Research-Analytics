@@ -1,6 +1,6 @@
 \* The Gemstone Tool Problem *\
 Maximize
-OBJ: 25 production_0_pliers + 40 production_0_wrenches
+Total_cost: 25 production_0_pliers + 40 production_0_wrenches
  + 25 production_1_pliers + 40 production_1_wrenches + 25 production_2_pliers
  + 22.5 production_2_wrenches + 25 production_3_pliers
  + 22.5 production_3_wrenches - 58 steelpurchase
